@@ -1,0 +1,14 @@
+.main {
+  padding: 2rem 4rem;
+  height: 100vh;
+}
+.header {
+  height: 10%;
+  padding-top: 2rem;
+  width: 100%;
+  text-align: center;
+  font-size: 3rem;
+}
+.hero {
+  height: 90%;
+}

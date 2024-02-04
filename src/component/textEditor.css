@@ -1,0 +1,30 @@
+.textEditorSection {
+  padding: 2rem;
+  height: 100%;
+}
+.save {
+  height: 3%;
+  padding: 1rem 4rem;
+  display: flex;
+  flex-direction: row-reverse;
+}
+.saveButton {
+  font-size: 1rem;
+}
+.editor {
+  padding: 2rem 4rem;
+  min-height: 60%;
+  border-radius: 2px;
+  border-style: solid;
+  border-color: darkslateblue;
+}
+
+.redColor {
+  color: red;
+}
+.boldText {
+  font-weight: bold;
+}
+.textUnderline {
+  text-decoration: underline;
+}
